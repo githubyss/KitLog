@@ -1,4 +1,4 @@
-package com.githubyss.kitlog.ui.theme
+package com.githubyss.kit.log.ui.theme
 
 import android.app.Activity
 import android.os.Build

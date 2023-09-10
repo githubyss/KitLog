@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.githubyss.kitlog"
+    namespace = "com.githubyss.kit.log"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.githubyss.kitlog"
+        applicationId = "com.githubyss.kit.log"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

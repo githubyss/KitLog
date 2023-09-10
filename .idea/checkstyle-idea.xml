@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CheckStyle-IDEA">
-    <option name="configuration">
-      <map>
-        <entry key="active-configuration" value="LOCAL_FILE:C:/Users/16072015/.AndroidStudio2.2/config/plugins/CheckStyle-IDEA/classes/cuntom_idea_checks.xml:The custom Checkstyle rules" />
-        <entry key="location-0" value="LOCAL_FILE:C:/Users/16072015/.AndroidStudio2.2/config/plugins/CheckStyle-IDEA/classes/cuntom_idea_checks.xml:The custom Checkstyle rules" />
-        <entry key="location-1" value="CLASSPATH:/sun_checks.xml:The default Checkstyle rules" />
-        <entry key="scanscope" value="JavaOnly" />
-        <entry key="suppress-errors" value="false" />
-        <entry key="thirdparty-classpath" value="" />
-      </map>
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.12.2</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <copyLibs>true</copyLibs>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="ec067c6a-eeea-49de-9ec0-3dc4f902ab28" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="ec067c6a-eeea-49de-9ec0-3dc4f902ab28" type="LOCAL_FILE" scope="All" description="The custom Checkstyle rules">C:/Users/16072015/.AndroidStudio2.2/config/plugins/CheckStyle-IDEA/classes/cuntom_idea_checks.xml</ConfigurationLocation>
+      </list>
     </option>
   </component>
 </project>
